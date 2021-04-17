@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-thi is main
-=======
-this is branch1
->>>>>>> 69ffb51
+aaa
