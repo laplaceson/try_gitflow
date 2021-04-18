@@ -1,3 +1,4 @@
+this is fucking new branch1
 
 this is main branch
 let's see the merge 
