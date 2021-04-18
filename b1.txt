@@ -1,2 +1,4 @@
-this is main .
-fuictiuon 0.
+this is main with no function
+Total 1 function.
+Add fuction A.
+
