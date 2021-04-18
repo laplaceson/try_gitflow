@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 this is main with no function
 Total 1 function.
 Add fuction A.
 
+=======
+this is main
+function 0. B
+>>>>>>> functionB
