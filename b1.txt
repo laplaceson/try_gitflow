@@ -1,8 +1,2 @@
-
-this is my MAIN
-this is fucking new branch1
-this is main branch
-let's see the merge 
-aaa !!!! branch
-this is new b1 OHHH
-
+this is main .
+fuictiuon 0.
