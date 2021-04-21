@@ -1,3 +1,7 @@
 RESTART
 version1
-main
+function A is
+{
+
+};
+
