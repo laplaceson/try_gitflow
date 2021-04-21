@@ -1,2 +1,5 @@
 RESTART
 version1
+functionB
+{
+}
