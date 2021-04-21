@@ -1,2 +1,6 @@
 RESTART
 version1
+function A is
+{
+
+};
